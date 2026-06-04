@@ -8,9 +8,9 @@
 ## What I'm working on
 
 - 🛩️ **Software Engineer Apprenticeship @ Dassault-Aviation** (Istres)
-- 🎓 **Computer Science Engineering (MSc) @ JUNIA ISEN Lille** — software development track
-- 🍽️ **Co-founder & CTO @ [La Krème](https://lakreme.fr)** — the French brunch index
-- 📅 **Co-founder & CTO @ [Koulis](https://koulis.ai)** — restaurant reservation SaaS + MCP module for agent-native booking
+- 🎓 **Computer Science Engineering (MSc) @ JUNIA ISEN Lille**  software development track
+- 🍽️ **Co-founder & CTO @ [La Krème](https://lakreme.fr)**  the French brunch index
+- 📅 **Co-founder & CTO @ [Koulis](https://koulis.ai)**  restaurant reservation SaaS + MCP module for agent-native booking
 
 ---
 
@@ -31,12 +31,12 @@ Infra         AWS · Cloudflare R2 · Docker · Vercel · Supabase · Railway
 | Project | Description | Status |
 |---------|-------------|--------|
 | **ewokbot** | Infinite agentic loop: Jira → open-code → GitHub PR → deploy | 🔨 Building |
-| **[La Krème](https://lakreme.fr)** | French brunch index — 1,700+ restaurants, 170+ cities | 🟢 Active |
+| **[La Krème](https://lakreme.fr)** | French brunch index. 1,700+ restaurants, 170+ cities | 🟢 Active |
 | **[Koulis](https://koulis.ai)** | Restaurant reservation SaaS | 🟢 Active |
-| **[Koulis-MCP](https://koulis.ai)** | MCP module - book restaurants directly from AI agents | 🟢 Active |
+| **[Koulis-MCP](https://koulis.ai)** | MCP module. book restaurants directly from AI agents | 🟢 Active |
 | **wwwatch** | Agentic journal & newsletter | 🟢 Active |
 | **Skensia** | Palantir-like platform for heterogeneous military intelligence data | 🪦 Failed |
-| **Akasen** | Web agency — 5 sites shipped | 🪦 Stopped |
+| **Akasen** | Web agency. 5 sites shipped | 🪦 Stopped |
 
 ---
 
