@@ -34,7 +34,7 @@ Infra         AWS · Cloudflare R2 · Docker · Vercel · Supabase · Railway
 | **[La Krème](https://lakreme.fr)** | French brunch index. 1,700+ restaurants, 170+ cities | 🟢 Active |
 | **[Koulis](https://koulis.ai)** | Restaurant reservation SaaS | 🟢 Active |
 | **[Koulis-MCP](https://koulis.ai)** | MCP module. book restaurants directly from AI agents | 🟢 Active |
-| **[wwwatch](htttps://wwwatch.dev)** | Agentic journal & newsletter | 🟢 Active |
+| **[wwwatch](https://wwwatch.dev)** | Agentic journal & newsletter | 🟢 Active |
 | **Skensia** | Palantir-like platform for heterogeneous military intelligence data | 🪦 Failed |
 | **Akasen** | Web agency. 5 sites shipped | 🪦 Stopped |
 
