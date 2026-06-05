@@ -7,7 +7,7 @@
 
 ## What I'm working on
 
-- 🛩️ **Software Engineer Apprenticeship @ Dassault-Aviation** (Istres)
+- 🛩️ **Software Engineer @ Dassault-Aviation** (Istres)
 - 🎓 **Computer Science Engineering (MSc) @ JUNIA ISEN Lille**  software development track
 - 🍽️ **Co-founder & CTO @ [La Krème](https://lakreme.fr)**  the French brunch index
 - 📅 **Co-founder & CTO @ [Koulis](https://koulis.ai)**  restaurant reservation SaaS + MCP module for agent-native booking
