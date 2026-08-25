@@ -1,14 +1,14 @@
 # Hey, I'm Massimo 👋
 
-> Product engineer. Founder. Father.  
-> I build products people actually use.
+> AI engineer. Founder. Father.  
+> I cook AI into complex industrial systems.
 
 ---
 
 ## What I'm working on
 
-- 🛩️ **Software Engineer @ Dassault-Aviation** (Istres)
-- 🎓 **Computer Science Engineering (MSc) @ JUNIA ISEN Lille**  software development track
+- 🛩️ **AI Engineer @ Dassault-Aviation** (Istres)
+- 🎓 **Computer Science Engineering (MSc) @ JUNIA ISEN Lille**  AI and cybersecurity track
 - 🍽️ **Co-founder & CTO @ [La Krème](https://lakreme.fr)**  the French brunch index
 - 📅 **Co-founder & CTO @ [Koulis](https://koulis.ai)**  restaurant reservation SaaS + MCP module for agent-native booking
 
@@ -17,11 +17,11 @@
 ## Tech stack
 
 ```
-Languages     Mainly TypeScript · Python · SQL · C++ 
+Languages     Mainly TypeScript · Python · SQL · C++ · Rust
 Backend       Node.js · FastAPI · Redis · PostgreSQL
 Frontend      React · Next.js · Angular · Playwright
-AI / Voice    Claude API · Deepgram · OpenAI TTS
-Infra         AWS · Cloudflare R2 · Docker · Vercel · Supabase · Railway
+AI / Voice    Claude API · Deepgram · OpenAI TTS · LangChain · RAG / Graph RAG · Neo4j
+Infra         AWS · Cloudflare R2 · Docker · Vercel · Supabase · Railway · Kubernetes
 ```
 
 ---
