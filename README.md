@@ -30,11 +30,11 @@ Infra         AWS · Cloudflare R2 · Docker · Vercel · Supabase · Railway ·
 
 | Project | Description | Status |
 |---------|-------------|--------|
-| **ewokbot** | Infinite agentic loop: Jira → open-code → GitHub PR → deploy | 🔨 Building |
 | **[La Krème](https://lakreme.fr)** | French brunch index. 1,700+ restaurants, 170+ cities | 🟢 Active |
-| **[Koulis](https://koulis.ai)** | Restaurant reservation SaaS | 🟢 Active |
-| **[Koulis-MCP](https://koulis.ai)** | MCP module. book restaurants directly from AI agents | 🟢 Active |
-| **[wwwatch](https://wwwatch.dev)** | Agentic journal & newsletter | 🟢 Active |
+| **ewokbot** | Infinite agentic loop: Jira → open-code → GitHub PR → deploy | 🪦 Paused |
+| **[Koulis](https://koulis.ai)** | Restaurant reservation SaaS | 🪦 Paused |
+| **[Koulis-MCP](https://koulis.ai)** | MCP module. book restaurants directly from AI agents | 🪦 Paused |
+| **[wwwatch](https://wwwatch.dev)** | Agentic journal & newsletter | 🪦 Paused |
 | **Skensia** | Palantir-like platform for heterogeneous military intelligence data | 🪦 Failed |
 | **Akasen** | Web agency. 5 sites shipped | 🪦 Stopped |
 
